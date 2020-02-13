@@ -1,24 +1,38 @@
-# README
+# The Gossip Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Gossip App in Ruby on Rails
 
-Things you may want to cover:
+## Installation 
 
-* Ruby version
+### Configuration
 
-* System dependencies
+In the terminal :
 
-* Configuration
+`git clone https://github.com/PabloSKZ/the-gossip-project.git`
 
-* Database creation
+`cd the-gossip-project`
 
-* Database initialization
+`bundle install`
 
-* How to run the test suite
+### Database creation
 
-* Services (job queues, cache servers, search engines, etc.)
+`rails db:create`
 
-* Deployment instructions
+`rails db:migrate`
 
-* ...
+### Database initialisation
+
+`rails db:seed`
+
+## Connexion
+
+`rails server`
+
+Open a browser :
+
+http://localhost:3000/
+
+Have fun !
+
+## Author
+PabloSKZ : https://github.com/PabloSKZ/the-gossip-project
