@@ -34,5 +34,6 @@ http://localhost:3000/
 
 Have fun !
 
-## Author
-PabloSKZ : https://github.com/PabloSKZ/the-gossip-project
+## Authors
+PabloSKZ : https://github.com/PabloSKZ
+ArnaudTN : https://github.com/ArnaudTn
